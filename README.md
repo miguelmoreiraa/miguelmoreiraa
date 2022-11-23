@@ -1,4 +1,4 @@
-<img src="././img/GITHUBPROFILE.png">
+<img src="./GITHUBPROFILE.png">
 
 <center>
 <table>
